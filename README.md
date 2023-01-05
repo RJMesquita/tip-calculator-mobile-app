@@ -10,7 +10,5 @@
 
 ### **User Interface**: 
 
-![UI](/Users/mesquita/Library/CloudStorage/GoogleDrive-rjmesquita08@gmail.com/O meu disco/05 Engineering/03 Programming Execices/02-kotlin/tip-app/UI.png)
-
 
 
